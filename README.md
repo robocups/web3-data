@@ -63,5 +63,57 @@ https://docs.cloud.debank.com/en/readme/api-pro-reference/user
 
 Feel free to contact us at:hello.cloud@debank.com
   
+  //
   
+## Data Scope
+Data includes up to 57 mainstream EVM compatible chains since its initial release.
+
+Data sources include public data information from addresses behavior on EVM-compatible chains and from the DeBank platform.
+
+## Usage & Updates
+
+The [dataset](./valuable-users) is currently available for callers to use for free.
+
+Our engineers will manually update the snapshots from time to time. You can subscribe for updates if needed.
+
+If you need on-chain users' real time data, you can visit DeBank Cloud to use the paid Open API service here:
+https://docs.cloud.debank.com/en/readme/api-pro-reference/user
+
+Feel free to contact us at:hello.cloud@debank.com
+
+//
+
+
+## Data Scope
+Data includes up to 57 mainstream EVM compatible chains since its initial release.
+
+Data sources include public data information from addresses behavior on EVM-compatible chains and from the DeBank platform.
+
+## Usage & Updates
+
+The [dataset](./valuable-users) is currently available for callers to use for free.
+
+Our engineers will manually update the snapshots from time to time. You can subscribe for updates if needed.
+
+If you need on-chain users' real time data, you can visit DeBank Cloud to use the paid Open API service here:
+https://docs.cloud.debank.com/en/readme/api-pro-reference/user
+
+Feel free to contact us at:hello.cloud@debank.com
+//
+
+## Data Scope
+Data includes up to 57 mainstream EVM compatible chains since its initial release.
+
+Data sources include public data information from addresses behavior on EVM-compatible chains and from the DeBank platform.
+
+## Usage & Updates
+
+The [dataset](./valuable-users) is currently available for callers to use for free.
+
+Our engineers will manually update the snapshots from time to time. You can subscribe for updates if needed.
+
+If you need on-chain users' real time data, you can visit DeBank Cloud to use the paid Open API service here:
+https://docs.cloud.debank.com/en/readme/api-pro-reference/user
+
+Feel free to contact us at:hello.cloud@debank.com
 
